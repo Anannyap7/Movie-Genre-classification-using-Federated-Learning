@@ -1,5 +1,6 @@
 # Movie-Genre-classification-using-Federated-Learning
-Classifying movie genres based on movie posters using Federated Learning with neural networks
+
+The project with Lakshya Gupta has been carried out on the problem statement of classifying genres of movie posters by using neural networks and optimizing the use of color theory. This preserves a protected environment for movie productions' design teams to determine whether their poster designs align with the genre of the movie which would potentially lead to the reach of the movie to the intended audience.
 
 ## Link to the dataset
 [MovieGenre.csv](https://drive.google.com/file/d/1ZYsQtk7Q270RHPAohxPAXNGOFZseqFhS/view?usp=sharing)
